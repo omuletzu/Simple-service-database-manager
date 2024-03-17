@@ -28,7 +28,7 @@ public class Ex3_a implements ActionListener {
         submit.addActionListener(this);
 
         cerinta = new JLabel("Să se găsească detaliile pentru devizele care au constatare și sunt nefinalizate la data\n " +
-                "‚01-SEP-2023’, ordonat după data introducere.");
+                "X, ordonat după data introducere.");
 
         frame.setLayout(new GridBagLayout());
         GridBagConstraints gbc = new GridBagConstraints();

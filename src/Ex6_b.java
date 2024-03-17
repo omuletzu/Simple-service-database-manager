@@ -34,7 +34,7 @@ public class Ex6_b implements ActionListener {
         submit.addActionListener(this);
 
         cerinta = new JLabel("Să se găsească pentru fiecare piesă folosită la devize cu data_finalizare în\n " +
-                "luna septembrie 2023 cantitatea totală (descriere, fabricant, cantitate_totală).");
+                "luna X cantitatea totală (descriere, fabricant, cantitate_totală).");
 
         frame.setLayout(new GridBagLayout());
         GridBagConstraints gbc = new GridBagConstraints();

@@ -28,7 +28,7 @@ public class Ex3_b implements ActionListener {
         submit = new JButton("Submit");
         submit.addActionListener(this);
 
-        cerinta = new JLabel("Să se găsească detaliile pieselor care au cantitate_stoc sub 5 ordonat crescător după\n " +
+        cerinta = new JLabel("Să se găsească detaliile pieselor care au cantitate_stoc sub X ordonat crescător după\n " +
                 "cantitate_stoc și descrescător după descriere.");
 
         frame.setLayout(new GridBagLayout());

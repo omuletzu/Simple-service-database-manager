@@ -34,7 +34,7 @@ public class Ex6_a implements ActionListener {
         submit.addActionListener(this);
 
         cerinta = new JLabel("Să se găsească pentru fiecare depanator numărul de devize (nume_depanator,\n" +
-                "câte_devize) cu data_finalizare în luna septembrie 2023.");
+                "câte_devize) cu data_finalizare în luna X.");
 
         frame.setLayout(new GridBagLayout());
         GridBagConstraints gbc = new GridBagConstraints();

@@ -27,7 +27,7 @@ public class Ex5_a implements ActionListener {
         submit = new JButton("Submit");
         submit.addActionListener(this);
 
-        cerinta = new JLabel("Să se găsească detaliile devizelor care au folosit piesa cu descrierea ‚șurub’.");
+        cerinta = new JLabel("Să se găsească detaliile devizelor care au folosit piesa cu descrierea X.");
 
         frame.setLayout(new GridBagLayout());
         GridBagConstraints gbc = new GridBagConstraints();
